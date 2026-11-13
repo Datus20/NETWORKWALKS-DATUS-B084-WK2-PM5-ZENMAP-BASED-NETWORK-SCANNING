@@ -93,6 +93,17 @@ Also the Mac address of the four Host were identified as per screenshot below wi
 
 <img width="1445" height="931" alt="List of live host Mac Addresses" src="https://github.com/user-attachments/assets/2b9e5039-fb4a-4de1-943f-308736c6bfb3" />
 <img width="912" height="126" alt="mac" src="https://github.com/user-attachments/assets/b19ae709-7572-4f24-9cd0-8708613fc004" />
+</p>
+
+---
+
+# Topology of the Network,
+Also the Topology of the network was identified and saved in the PDf.
+illustrated in screenshot below,
+ </div>,
+ 
+<img width="1532" height="928" alt="Topology" src="https://github.com/user-attachments/assets/ca81625b-ba78-4192-b18f-295f3a3903b4" />
+
 
 
 
