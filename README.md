@@ -106,5 +106,20 @@ illustrated in screenshot below,
 
 
 
+# 🔗 Tools & Resources
+
+- **Zenmap:** (https://nmap.org/download.html)
+
+# 👤 Author
+
+**Datus Ekwabi**\
+
+LinkedIn: [www.linkedin.com/in/datus-ekwabi-43b622173
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 02 | **Project:** Zenmap based Network Scanning| **Repository:** GitHub
+
 
 
