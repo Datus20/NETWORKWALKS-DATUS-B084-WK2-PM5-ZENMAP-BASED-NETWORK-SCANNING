@@ -77,13 +77,23 @@ and then identified there are Four hosts as well as live **4 live hosts**  as il
 
 ---
 
-# Number IP Address of Live Host 
- The Host identified and the ip were mentioned as per marked on the box
- **172.16.1.1**, **172.16.1.247**, **172.16.1.248** & **172.16.1.249**
+# IP Address of Live Host 
+ The Host identified and the ip were mentioned as per marked on the by the arrows
  illustrated in screenshot below,
  </div>
 
- <img width="1445" height="931" alt="of live host" src="https://github.com/user-attachments/assets/2db50e4e-bb82-44de-b219-594f435495b0" />
+<img width="1445" height="931" alt="List of Host IP address" src="https://github.com/user-attachments/assets/f947c229-6000-40ef-8b46-67405ad58230" />
+</p>
+
+---
+
+# Macaddress of the Hosts 
+Also the Mac address of the four Host were identified as per screenshot below with additional of the fouthone which is the PC used for scanning inthe **Ifconfig** command.
+</div>
+
+<img width="1445" height="931" alt="List of live host Mac Addresses" src="https://github.com/user-attachments/assets/2b9e5039-fb4a-4de1-943f-308736c6bfb3" />
+<img width="912" height="126" alt="mac" src="https://github.com/user-attachments/assets/b19ae709-7572-4f24-9cd0-8708613fc004" />
+
 
 
 
