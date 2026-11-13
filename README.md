@@ -37,7 +37,7 @@ The main objectives of this project are to:
 - How many host are live in a subnet.
 - Identifying **IP Address of live Hosts**.
 - Identifying  **MAC Address** of a live hosts.
-- Displaying the output topolgy 
+- Displaying the output **topolgy** 
 
 ---
 
@@ -51,5 +51,39 @@ The Purpose of this project is to do Scan the Network inorder to identify the Ho
 
 **Zenmap** is a Graphical User interface (_GUI of Nmap_) tool which is used to for scanning the Network inroder to check and identifying the Hoosts in the network and also numberservice ports hosted in ip addresses in a network.
 </div>
+
+<img width="1366" height="768" alt="Zenmap" src="https://github.com/user-attachments/assets/3ac192e8-f000-4369-962c-67f6f15d476e" />
+</p>
+
+---
+
+# Identifying Local IP
+The local Ip Address was identified thru **ifconfig** command as per below screenshot,
+</div>
+
+<img width="1920" height="1080" alt="Lan ip" src="https://github.com/user-attachments/assets/383bf023-4ee1-4c6f-afca-82235e8ff2d3" />
+</p>
+
+---
+
+# Number of Live Host /PC in Subnet
+The number of Live host can be identified by launching Zenmap  input the Network Ip address with its's mask or CIDR notation (_**i.e 172.166.1.1/24**_)
+an then in profile **ping scan** and scan a
+and then identified there are Four hosts as well as live **4 live hosts**  as illustrated below,
+</div>
+
+<img width="1445" height="931" alt="of live host" src="https://github.com/user-attachments/assets/d951d3e8-d0a6-461d-b90f-4e64b7c421b7" />
+</p>
+
+---
+
+# Number IP Address of Live Host 
+ The Host identified and the ip were mentioned as per marked on the box
+ **172.16.1.1**, **172.16.1.247**, **172.16.1.248** & **172.16.1.249**
+ illustrated in screenshot below,
+ </div>
+
+ <img width="1445" height="931" alt="of live host" src="https://github.com/user-attachments/assets/2db50e4e-bb82-44de-b219-594f435495b0" />
+
 
 
